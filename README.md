@@ -70,7 +70,3 @@ Este projeto consiste em uma API RESTful desenvolvida em Node.js e Express.js, i
 - O banco de dados PostgreSQL é utilizado para persistência dos dados, seguindo uma estrutura predefinida com tabelas de usuários, categorias e transações.
 - Os endpoints da API estão documentados acima, incluindo exemplos de requisições e respostas esperadas.
 - Foram implementados status codes adequados para cada situação, promovendo uma experiência consistente e segura para o usuário.
-
-## Nota Final
-
-Este projeto é mais do que um desafio técnico; é uma oportunidade de aprimorar habilidades de desenvolvimento, práticas de segurança e compreensão de arquiteturas RESTful. A entrega bem-sucedida demonstra não apenas competência técnica, mas também a capacidade de criar soluções robustas e eficientes. Lembre-se: "Feito é melhor que perfeito!"
